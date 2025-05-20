@@ -1,7 +1,6 @@
 OFFSET = 100
 MAX_R = 200
 
-# 변수 선언 및 입력
 n = int(input())
 rects = [
     map(int, input().split())
